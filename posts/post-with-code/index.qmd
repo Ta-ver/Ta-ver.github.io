@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS data"
+author: "Tavershima Adongo"
+date: "2024-04-28"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This was a project using Our World in Data data. You can find the project [here](https://ta-ver.github.io/owid_life_satisfaction_new/){target="_blank"}
+
+```{r}
+1 + 1
+```
